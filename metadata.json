@@ -1,0 +1,5 @@
+{
+  "name": "RAG Chat AI",
+  "description": "A responsive, ChatGPT-style interface for your RAG backend powered by Gemini and Pinecone.",
+  "requestFramePermissions": []
+}
